@@ -1,0 +1,51 @@
+#Map {
+    padding: 20px;
+    background-color: #f5f5f5;
+    color: #000000;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2em;
+    color: #333;
+  }
+  
+  .Js {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .ICON {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .ICON img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+  
+  .Texts {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .Texts p {
+    margin: 5px 0;
+    color: #666;
+  }
+  
+  .mapp {
+    display: flex;
+    justify-content: center;
+  }
+  
+  iframe {
+    border: none;
+    border-radius: 8px;
+  }
+  

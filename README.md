@@ -1,1 +1,1 @@
-# usutdy
+# ustudy

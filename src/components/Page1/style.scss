@@ -1,0 +1,39 @@
+#futures{
+    padding: 3vw 3vw 3vw 3vw;
+    text-align: center;
+    height: 515px;
+    background-color: #EAEFF4;
+    width: 1,780px;
+   
+}
+#futures .fas{
+    text-align: center;
+    background-color: #EAEFF4;
+    
+
+}
+#futures .fas img{
+    font-size: 2.3rem;
+    width: 90px;
+    align-items: center;
+    // color:  rgb(14, 14, 139);
+
+}
+#futures .fass{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 6fr));
+    grid-gap: 0.1rem;
+    margin-top: 20px;
+
+}
+#futures .fas p{
+    font-size: 1rem;
+    font-weight: 500;
+    // line-height: 50.4px;
+    align-items: center;
+    color:  #000000;
+    text-align: center
+    ;
+    
+    padding: 18px 0 7px 0;
+}
